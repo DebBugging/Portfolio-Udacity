@@ -14,7 +14,7 @@ The page at minimum includes all of the following:
 
 For more information:  
 
-Udacity  
+[Udacity](https://review.udacity.com/#!/rubrics/45/view). 
 
 ## License
 
